@@ -1,0 +1,41 @@
+body {
+  background-color: aquamarine;
+}
+#w1{
+    width:20%;
+    height:5%
+}
+#w2{
+    width:20%;
+    height:5%
+}
+#w3{
+    width:20%;
+    height:5%
+}
+#w4{
+    width:20%;
+    height:5%
+}
+#w5{
+    width:20%;
+    height:5%
+}
+#w6{
+    width:20%;
+    height:5%
+}
+#w7{
+    width:20%;
+    height:5%
+}
+#w8{
+    width:20%;
+    height:5%
+}
+.button{
+    background-color:red;
+    height:5%;
+    width:10%;
+    font-size:20px;
+}
